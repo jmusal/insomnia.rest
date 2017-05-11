@@ -7,7 +7,7 @@ tags: ["announcement"]
 
 Today, I'm happy to announce that the Insomnia desktop app is now open source software 
 under the GPLv3 license! The source code is hosted on 
-[GitHub](https://github.com/getinsomnia/insomnia) at for your viewing pleasure.
+[GitHub](https://github.com/getinsomnia/insomnia) for your viewing pleasure.
 
 <!--more-->
 
